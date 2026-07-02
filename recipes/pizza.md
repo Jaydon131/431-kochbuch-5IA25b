@@ -4,12 +4,12 @@ title: "Klassische Pizza Prosciutto"
 date: 2026-06-11
 draft: false
 description: "Eine knusprige, hausgemachte Pizza Prosciutto mit fruchtiger Tomatensauce, geschmolzenem Mozzarella und zartem Schinken."
-image: "images/recipes/pizza-prosciutto.svg"
+image: "static/images/recipes/pizza.png"
 
 # ── Einordnung ───────────────────────────────────────────
 categories: ["Pizza", "Italienisch"]
 tags: ["pizza", "prosciutto", "schinken", "mozzarella", "hausgemacht"]
-contributors: ["Maria Rossi"]
+contributors: ["3Jaydon1"]
 difficulty: "Mittel"
 
 # ── Eckdaten ─────────────────────────────────────────────
@@ -41,7 +41,7 @@ instructions:
   - "Die Pizza in Stücke schneiden und sofort heiss servieren."
 ---
 
-> «Eine gute Pizza braucht keine Geheimnisse — nur frische Zutaten, einen heissen Ofen und etwas Geduld.» — Maria
+> «Eine gute Pizza braucht keine Geheimnisse — nur frische Zutaten, einen heissen Ofen und etwas Geduld.» — Jaydon
 
 ## Über dieses Rezept
 
@@ -59,4 +59,3 @@ Dieses Pizza-Prosciutto-Rezept wird seit vielen Jahren in unserer Familie zubere
 - Rucola nach dem Backen darübergeben.
 - Statt Kochschinken Parmaschinken verwenden für ein kräftigeres Aroma.
 
-![img.png](img.png)
