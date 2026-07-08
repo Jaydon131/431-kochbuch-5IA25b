@@ -9,7 +9,7 @@ image: "static/images/recipes/pizza.png"
 # ── Einordnung ───────────────────────────────────────────
 categories: ["Pizza", "Italienisch"]
 tags: ["pizza", "prosciutto", "schinken", "mozzarella", "hausgemacht"]
-contributors: ["3Jaydon1"]
+contributors: ["Jaydon Mamai"]
 difficulty: "Mittel"
 
 # ── Eckdaten ─────────────────────────────────────────────
