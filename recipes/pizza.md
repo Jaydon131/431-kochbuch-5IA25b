@@ -4,7 +4,7 @@ title: "Klassische Pizza Prosciutto"
 date: 2026-06-11
 draft: false
 description: "Eine knusprige, hausgemachte Pizza Prosciutto mit fruchtiger Tomatensauce, geschmolzenem Mozzarella und zartem Schinken."
-image: "static/images/recipes/pizza.png"
+image: "images/recipes/pizza.png"
 
 # ── Einordnung ───────────────────────────────────────────
 categories: ["Pizza", "Italienisch"]
