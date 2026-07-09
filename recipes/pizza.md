@@ -45,8 +45,7 @@ instructions:
 
 ## Über dieses Rezept
 
-Dieses Pizza-Prosciutto-Rezept wird seit vielen Jahren in unserer Familie zubereitet. Der knusprige Boden, die fruchtige Tomatensauce und der zarte Schinken sorgen für den klassischen italienischen Geschmack. Frisch aus dem Ofen schmeckt die Pizza am besten.
-
+Diese Pizza Prosciutto ist ein einfaches, aber sehr leckeres Gericht. Durch den dünn ausgerollten Teig wird der Boden knusprig, während die Tomatensauce, der Mozzarella und der Schinken zusammen einen klassischen Geschmack ergeben. Das Rezept eignet sich gut, wenn man eine hausgemachte Pizza machen möchte, die nicht zu kompliziert ist, aber trotzdem frisch und hochwertig schmeckt.
 ## Tipps
 
 - Das Backblech oder den Pizzastein vorheizen, damit der Boden besonders knusprig wird.
